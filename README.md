@@ -31,7 +31,7 @@ The goal is to accurately predict the Length of Stay for each patient on case by
 
 ##  TEAM MEMBERS
 - SHAHIDHA K
-- HARINI R
+- HARINE R
 - PRATHIKSHA S
 - VISHAL V
 <hr>
